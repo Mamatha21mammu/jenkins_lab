@@ -1,6 +1,6 @@
 import java.util.*;
-Public test{
-  Public Static Void main(String args[]){
+public test{
+  public Static Void main(String args[]){
     Scanner sc= new Scanner(System.in);
     System.out.println("Jenkins_lab");
     int arr[]=new int[5];
