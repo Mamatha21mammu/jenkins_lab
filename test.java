@@ -7,6 +7,9 @@ public class test{
     for(int i=0;i<5;i++){
       arr[i]=sc.nextInt();
   }
+        for(int i=0;i<5;i++){
+   System.out.println(   arr[i] );
+  }
        System.out.println("succesfull");
 }
 }
